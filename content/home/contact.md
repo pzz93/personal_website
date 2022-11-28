@@ -26,9 +26,9 @@ content:
 
   # Contact details (edit or remove options as required)
   email: zhuozhen001@e.ntu.edu.sg
-  phone: +65 89410891 | +86 13982229267
+<!--   phone: +65 89410891 | +86 13982229267 -->
   address:
-    street: 50 Nanyang Avenue, S3-B2C-117
+<!--     street: 50 Nanyang Avenue, S3-B2C-117 -->
     city: Singapore
 <!--     region: CA -->
     postcode: '639798'
