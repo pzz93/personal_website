@@ -7,9 +7,9 @@ widget: collection
 headless: true
 
 # Order that this section appears on the page.
-weight: 80
+weight: 35
 
-title: Featured Publications
+title: Job Market Paper
 subtitle: ''
 
 content:
