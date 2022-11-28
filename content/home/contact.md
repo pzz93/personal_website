@@ -26,11 +26,11 @@ content:
 
   # Contact details (edit or remove options as required)
   email: zhuozhen001@e.ntu.edu.sg
-  # phone: +65 89410891 | +86 13982229267 -->
+  phone: +65 89410891 | +86 13982229267
   address:
     street: 50 Nanyang Avenue, S3-B2C-117
     city: Singapore
-    region: CA
+   # region: CA
     postcode: '639798'
     country: Singapore
     country_code: SG
@@ -38,19 +38,19 @@ content:
     latitude: '37.4275'
     longitude: '-122.1697'
   directions: Finance Department, Nanyang Business School
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+ # office_hours:
+ #   - 'Monday 10:00 to 13:00'
+ #   - 'Wednesday 09:00 to 10:00'
+ # appointment_url: 'https://calendly.com'
+ # contact_links:
+ #   - icon: twitter
+ #     icon_pack: fab
+ #     name: DM Me
+ #     link: 'https://twitter.com/Twitter'
+ #   - icon: video
+ #     icon_pack: fas
+ #     name: Zoom Me
+ #     link: 'https://zoom.com'
 
 design:
   columns: '2'
