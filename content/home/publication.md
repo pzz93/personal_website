@@ -19,7 +19,7 @@ content:
   count: 0
   # Filter on criteria
   filters:
-    featured_only: true
+    featured_only: false
     author: ''
     category: ''
     publication_type: ''
