@@ -21,7 +21,7 @@ organizations:
 bio: I am currently completing my Ph.D. at Nanyang Technological University in the Division of Banking and Finance.
 
 # Interests to show in About widget
-Research Interests:
+interests:
   - Empirical Corporate Finance
   - Behavioral Finance
   - Social Media
