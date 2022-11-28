@@ -1,5 +1,5 @@
 ---
-title: 'Inside the Minds of Expected Stock Returns'
+title: 'Fintech Adoption and Economic Resilience During the COVID-19 Pandemic'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -21,7 +21,7 @@ author_notes:
   - "Shanghai University of Finance and Economics"
   - "Nanyang Business School, Nanyang Technological University"
 
-date: ''  #'2013-07-01T00:00:00Z'
+date: '2022-10-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -37,12 +37,12 @@ publishDate: '' #'2017-01-01T00:00:00Z'
 # publication: In *Wowchemy Conference*
 # publication_short: In *ICW*
 
-abstract: This paper compares the ability of three prominent frameworks to explain the cross-section of expected stock returns. We conduct textual analysis on analyst reports and online articles recommending stocks that prior literature shows earn low average returns and we test whether the justifications provided in the buy recommendations mostly (1) emphasize a stock’s safe-haven quality, (2) indicate investor exuberance, or (3) point to a preference for stocks with high upside potential. We find that investors mostly point to the stocks’ upside potential. Our results suggest that non-traditional investor preferences play an important role in explaining the cross-section of expected stock returns. 
+abstract: This paper documents the cross-country demand trends of Fintech services using their corresponding Google search volumes of high-frequency Fintech-related phrases in recent years. We find that developing countries and those with underdeveloped Fintech industries exhibit higher Fintech demand increases during the pandemic. Moreover, we examine the impact of fintech and other determinants on economic resilience from COVID-19 across the world. We find that stronger Fintech is positively associated with GDP growth and negatively associated with unemployment rates since the onset of the pandemic. Additionally, countries with better education, better economic development prior to COVID-19, lower average population age, or less reliance on the tourism industry achieve stronger recovery in GDP growth. In addition, we develop an economic resilience measure to capture both the speed and strength of economic resistance and recovery in response to the pandemic shock. We find that Fintech development is one of the key determinants of economic resilience.
 
 # Summary. An optional shortened abstract.
-summary: This paper compares the ability of three prominent frameworks to explain the cross-section of expected stock returns. We conduct textual analysis on analyst reports and online articles recommending stocks that prior literature shows earn low average returns and we test whether the justifications provided in the buy recommendations mostly (1) emphasize a stock’s safe-haven quality, (2) indicate investor exuberance, or (3) point to a preference for stocks with high upside potential. We find that investors mostly point to the stocks’ upside potential. Our results suggest that non-traditional investor preferences play an important role in explaining the cross-section of expected stock returns. 
+summary: This paper documents the cross-country demand trends of Fintech services using their corresponding Google search volumes of high-frequency Fintech-related phrases in recent years. We find that developing countries and those with underdeveloped Fintech industries exhibit higher Fintech demand increases during the pandemic. Moreover, we examine the impact of fintech and other determinants on economic resilience from COVID-19 across the world. We find that stronger Fintech is positively associated with GDP growth and negatively associated with unemployment rates since the onset of the pandemic. Additionally, countries with better education, better economic development prior to COVID-19, lower average population age, or less reliance on the tourism industry achieve stronger recovery in GDP growth. In addition, we develop an economic resilience measure to capture both the speed and strength of economic resistance and recovery in response to the pandemic shock. We find that Fintech development is one of the key determinants of economic resilience. 
 
-tags: ['Anomalies', 'Behavioral Finance', 'Cross-Section of Expected Stock Returns', 'Natural Language Processing', 'Risk', 'Textual Analysis']
+tags: ['COVID-19 Pandemic', 'Economic Growth', 'Economic Stimulus', 'Fintech', 'GDP', 'Google Search Volume', 'Growth', 'Unemployment Rate']
 
 # Display this page in the Featured widget?
 featured: false
