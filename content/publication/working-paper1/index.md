@@ -39,7 +39,7 @@ summary: This paper compares the ability of three prominent frameworks to explai
 tags: ['Anomalies', 'Behavioral Finance', 'Cross-Section of Expected Stock Returns', 'Natural Language Processing', 'Risk', 'Textual Analysis']
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
