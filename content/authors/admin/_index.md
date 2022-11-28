@@ -81,6 +81,4 @@ highlight_name: true
 ---
 
 I am currently completing my Ph.D. at Nanyang Technological University in the Division of Banking and Finance, under the supervision of Prof... I confidently expect to graduate by May 2023. I am especially interested in investigating information embedded in unstructured financial data to find out what affects market participants’ decisions and behaviors.
-
-<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1sxG0CIzfe4a8PvaduFqwmiKDwQiAFDBq/view?usp=share_link" "newtab" >}}resumé{{< /staticref >}}.
-highlight_name: true -->
+{style="text-align: justify;"}
