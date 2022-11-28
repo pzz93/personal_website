@@ -1,5 +1,5 @@
 ---
-title: 'Inside the Minds of Expected Stock Returns'
+title: 'Shareholder Diversification and Trademarks'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -13,8 +13,8 @@ authors:
 # Author notes (optional)
 author_notes:
   - "Nanyang Business School, Nanyang Technological University"
-  - "Nanyang Business School, Nanyang Technological University"
   - "Southwestern University of Finance and Economics"
+  - "Nanyang Business School, Nanyang Technological University"
   - "Faculty of Business and Economics, The University of Hong Kong"
 
 date: '2022-08-01T00:00:00Z'
