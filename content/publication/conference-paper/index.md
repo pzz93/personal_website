@@ -36,7 +36,7 @@ abstract: This paper compares the ability of three prominent frameworks to expla
 # Summary. An optional shortened abstract.
 summary: This paper compares the ability of three prominent frameworks to explain the cross-section of expected stock returns. We conduct textual analysis on analyst reports and online articles recommending stocks that prior literature shows earn low average returns and we test whether the justifications provided in the buy recommendations mostly (1) emphasize a stock’s safe-haven quality, (2) indicate investor exuberance, or (3) point to a preference for stocks with high upside potential. We find that investors mostly point to the stocks’ upside potential. Our results suggest that non-traditional investor preferences play an important role in explaining the cross-section of expected stock returns. 
 
-tags: ['Cross-Section of Expected Stock Returns', 'Anomalies', 'Risk', 'Behavioral Finance', 'Textual Analysis']
+tags: ['Anomalies', 'Behavioral Finance', 'Cross-Section of Expected Stock Returns', 'Natural Language Processing', 'Risk', 'Textual Analysis']
 
 # Display this page in the Featured widget?
 featured: true
