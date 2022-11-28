@@ -24,7 +24,7 @@ content:
     category: ''
     publication_type: ''
     tag: ''
-    exclude_featured: false
+    exclude_featured: true
     exclude_future: false
     exclude_past: false
     
