@@ -25,24 +25,24 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: zhuozhen001@e.ntu.edu.sg
+  phone: +65 89410891 | +86 13982229267
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
-  coordinates:
+    street: 50 Nanyang Avenue, S3-B2C-117
+    city: Singapore
+<!--     region: CA -->
+    postcode: '639798'
+    country: Singapore
+    country_code: SG
+<!--   coordinates:
     latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  office_hours:
+    longitude: '-122.1697' -->
+  directions: Finance Department, Nanyang Business School
+<!--   office_hours:
     - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
+    - 'Wednesday 09:00 to 10:00' -->
   appointment_url: 'https://calendly.com'
-  contact_links:
+<!--   contact_links:
     - icon: twitter
       icon_pack: fab
       name: DM Me
@@ -50,7 +50,7 @@ content:
     - icon: video
       icon_pack: fas
       name: Zoom Me
-      link: 'https://zoom.com'
+      link: 'https://zoom.com' -->
 
 design:
   columns: '2'
