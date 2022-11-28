@@ -50,18 +50,18 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-<!--   - icon: twitter
+  - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
     label: Follow me on Twitter
     display:
-      header: true -->
-<!--   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+      header: true 
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen -->
+    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/pzhuozhen/?locale=en_US
@@ -82,5 +82,5 @@ highlight_name: true
 
 I am currently completing my Ph.D. at Nanyang Technological University in the Division of Banking and Finance, under the supervision of Prof... I confidently expect to graduate by May 2023. I am especially interested in investigating information embedded in unstructured financial data to find out what affects market participants’ decisions and behaviors.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "/Users/zhuozhenpeng/Dropbox/NBS/Job/Zhuozhen_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "/Users/zhuozhenpeng/Dropbox/NBS/Job/Zhuozhen_CV.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
 highlight_name: true
