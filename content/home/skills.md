@@ -16,18 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: Stata, SAS, MATLAB, Tableau, MS Office
+  - description: **Python**, Stata, SAS, MATLAB, Tableau, MS Office
     icon: python
     icon_pack: fab
     name: Programming
-  - description: 100%
-    icon: chart-line
-    icon_pack: fas
+  - description: **Web Scraping**: have experience extracting data (text, links, documents, pictuces, etc.) from 100+ websites. Eg: Edgar, Nasdaq, Seeking Alpha, Tipranks, Yahoo Finance, Twitter, Morningstar, etc. **Text Mining**: Natural Language Processing, Text Preprocessing, Feature Engineering, Semantic Analysis, Sentiment Analysis, etc; Able to deal with documents with PDF format or picture format
+    icon: github
+    icon_pack: fab
     name: Statistics
-  - description: 10%
+  - description: Mandarin (Native), English (Fluent)
     icon: language
     icon_pack: fas
-    name: Language
+    name: Languages
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
