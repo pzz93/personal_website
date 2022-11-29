@@ -20,10 +20,14 @@ feature:
     icon: python
     icon_pack: fab
     name: Programming
-  - description: Web Scraping, Text Mining
-    icon: github
-    icon_pack: fab
-    name: Statistics
+ # - description: Web Scraping, Text Mining
+ #   icon: github
+ #   icon_pack: fab
+ #   name: Statistics
+  - description: Natural Language Processing, Text Preprocessing, Sentiment Analysis
+    icon: file-word
+    icon_pack: fas
+    name: Text Mining
   - description: Mandarin (Native), English (Fluent)
     icon: language
     icon_pack: fas
