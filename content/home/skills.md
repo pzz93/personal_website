@@ -1,7 +1,7 @@
 ---
 # An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: featurette
+widget: features
 
 # This file represents a page section.
 headless: true
@@ -16,10 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 features:
-- icon: python
-  icon_pack: fab
-  name: Programming
-  description = Stata, SAS, MATLAB, Tableau, MS Office
+#  - icon: python
+#    icon_pack: fab
+#    name: Programming
+#    description = Stata, SAS, MATLAB, Tableau, MS Office
+  - icon: github
+    icon_pack: fab
+    name: Statistics
+    description = 100%
+  - icon: language
+    icon_pack: fas
+    name: Language
+    description: 80%
     
 # [[feature]]
 #  icon: python
