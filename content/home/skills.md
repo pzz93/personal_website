@@ -28,8 +28,8 @@ feature:
     icon: file-lines
     icon_pack: fas
     name: Text Mining
-  - description: have experience extracting data (text, links, documents, pictuces, etc.) from 100+ websites. Eg: Edgar, Nasdaq, Seeking Alpha, Tipranks, Yahoo Finance, Twitter, Morningstar
-    icon: file-lines
+  - description: 100+ websites, Edgar, Nasdaq, Seeking Alpha, Tipranks, Yahoo Finance, Twitter, Morningstar
+    icon: spider-web
     icon_pack: fas
     name: Web Scraping
   - description: Mandarin (Native), English (Fluent)
