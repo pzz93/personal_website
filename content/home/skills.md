@@ -28,14 +28,18 @@ feature:
     icon: file-lines
     icon_pack: fas
     name: Text Mining
-  - description: 100+ websites: Edgar, Nasdaq, Seeking Alpha, Tipranks, Yahoo Finance, Twitter, Morningstar
+  - description: 100+ websites:, Edgar, Nasdaq, Seeking Alpha, Tipranks, Yahoo Finance, Twitter, Morningstar
     icon: spider-web
-    icon_pack: fas
+    icon_pack: fa
     name: Web Scraping
   - description: Mandarin (Native), English (Fluent)
     icon: language
     icon_pack: fas
     name: Languages
+  - description: NTU Research Scholarship, Southwestern University of Finance and Economics Academic Scholarship
+    icon: award
+    icon_pack: fas
+    name: Award
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
