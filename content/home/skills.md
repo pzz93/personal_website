@@ -20,14 +20,7 @@ feature:
     icon_pack: fab
     name: Programming
     description = "**Python**, Stata, SAS, MATLAB, Tableau, MS Office"
-  - icon: github
-    icon_pack: fab
-    name: Statistics
-    description = "**Web Scraping**: have experience extracting data (text, links, documents, pictuces, etc.) from 100+ websites. Eg: Edgar, Nasdaq, Seeking Alpha, Tipranks, Yahoo Finance, Twitter, Morningstar, etc. **Text Mining**: Natural Language Processing, Text Preprocessing, Feature Engineering, Semantic Analysis, Sentiment Analysis, etc; Able to deal with documents with PDF format or picture format."
-  - icon: language
-    icon_pack: fas
-    name: Language
-    description: "Mandarin (Native), English (Fluent)"
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
