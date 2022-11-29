@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 100%
-    icon: python
+    icon: fa-python
     icon_pack: fa
     name: Programming
   - description: 100%
