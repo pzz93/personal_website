@@ -1,9 +1,9 @@
 ---
 # Display name
-title: ZZ Peng 彭
+title: Zhuozhen Peng
 
 # Full name (for SEO)
-first_name: ZZ
+first_name: Zhuozhen
 last_name: Peng
 
 # Is this the primary user of the site?
@@ -47,6 +47,12 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
+  # Link to a PDF of your resume/CV.
+  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
+  # and uncomment the lines below.
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
@@ -69,12 +75,7 @@ social:
     icon_pack: fab
     link: uploads/wechat_code.jpg
 
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'zhuozhen001@e.ntu.edu.sg'
@@ -83,5 +84,5 @@ email: 'zhuozhen001@e.ntu.edu.sg'
 highlight_name: true
 ---
 
-I am currently completing my Ph.D. at Nanyang Technological University in the Division of Banking and Finance, under the supervision of Prof... I confidently expect to graduate by May 2023. I am especially interested in investigating information embedded in unstructured financial data to find out what affects market participants’ decisions and behaviors.
+I am currently completing my Ph.D. at Nanyang Technological University in the Division of Banking and Finance, under the supervision of Prof. Xin Chang and Assoc Prof. Byoung-Hyoun Hwang. I confidently expect to graduate by May 2023. I am especially interested in investigating information embedded in unstructured financial data to find out what affects market participants’ decisions and behaviors.
 {style="text-align: justify;"}
