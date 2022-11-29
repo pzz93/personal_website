@@ -29,8 +29,8 @@ feature:
     icon_pack: fas
     name: Text Mining
   - description: 100+ websites, Edgar, Nasdaq, Seeking Alpha, Tipranks, Yahoo Finance, Twitter, Morningstar
-    icon: fa-spider-web
-    icon_pack: fas
+    icon: fa-python 
+    icon_pack: fa-solid
     name: Web Scraping
   - description: Mandarin (Native), English (Fluent)
     icon: language
