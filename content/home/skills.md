@@ -24,7 +24,7 @@ feature:
     icon: github
     icon_pack: fab
     name: Statistics
-  - description: Mandarin (Native), English (Fluent)
+  - description: Mandarin (Native),\n, English (Fluent)
     icon: language
     icon_pack: fas
     name: Languages
