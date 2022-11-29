@@ -20,7 +20,7 @@ feature:
     icon: python
     icon_pack: fab
     name: Programming
-  - description: Web Scraping: have experience extracting data (text, links, documents, pictuces, etc.) from 100+ websites. Eg: Edgar, Nasdaq, Seeking Alpha, Tipranks, Yahoo Finance, Twitter, Morningstar, etc. Text Mining: Natural Language Processing, Text Preprocessing, Feature Engineering, Semantic Analysis, Sentiment Analysis, etc; Able to deal with documents with PDF format or picture format.
+  - description: Web Scraping, Text Mining
     icon: github
     icon_pack: fab
     name: Statistics
