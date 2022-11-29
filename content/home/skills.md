@@ -25,9 +25,13 @@ feature:
  #   icon_pack: fab
  #   name: Statistics
   - description: Natural Language Processing, Text Preprocessing, Sentiment Analysis
-    icon: file-word
+    icon: file-lines
     icon_pack: fas
     name: Text Mining
+  - description: have experience extracting data (text, links, documents, pictuces, etc.) from 100+ websites. Eg: Edgar, Nasdaq, Seeking Alpha, Tipranks, Yahoo Finance, Twitter, Morningstar
+    icon: file-lines
+    icon_pack: fas
+    name: Web Scraping
   - description: Mandarin (Native), English (Fluent)
     icon: language
     icon_pack: fas
