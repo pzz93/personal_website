@@ -15,11 +15,11 @@ subtitle:
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
-# feature:
-#  - icon: python
-#    icon_pack: fab
-#    name: Programming
-#    description = "**Python**, Stata, SAS, MATLAB, Tableau, MS Office"
+features:
+- icon: python
+  icon_pack: fab
+  name: Programming
+  description = Stata, SAS, MATLAB, Tableau, MS Office
     
 # [[feature]]
 #  icon: python
@@ -27,11 +27,6 @@ subtitle:
 #  name: Programming
 #  description = **Python**, Stata, SAS, MATLAB, Tableau, MS Office
   
-[[feature]]
-  icon = "code"
-  icon_pack = "fa"
-  name = "Programming"
-  description = "**Python**, Bash, R, git, LaTeX"
 
 # Uncomment to use emoji icons.
 # - icon: ":smile:"
