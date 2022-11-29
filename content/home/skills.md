@@ -15,8 +15,14 @@ subtitle:
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
-feature:
-  - icon: python
+# feature:
+#  - icon: python
+#    icon_pack: fab
+#    name: Programming
+#    description = "**Python**, Stata, SAS, MATLAB, Tableau, MS Office"
+    
+[[feature]]
+    icon: python
     icon_pack: fab
     name: Programming
     description = "**Python**, Stata, SAS, MATLAB, Tableau, MS Office"
