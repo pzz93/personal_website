@@ -73,7 +73,7 @@ social:
     link: https://www.linkedin.com/in/pzhuozhen/?locale=en_US
   - icon: weixin
     icon_pack: fab
-    link: uploads/wechat_code.jpg
+    link: images/wechat_code.png
 
   
 
