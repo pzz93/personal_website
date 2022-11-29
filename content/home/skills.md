@@ -22,10 +22,10 @@ subtitle:
 #    description = "**Python**, Stata, SAS, MATLAB, Tableau, MS Office"
     
 [[feature]]
-    icon: python
-    icon_pack: fab
-    name: Programming
-    description = "**Python**, Stata, SAS, MATLAB, Tableau, MS Office"
+  icon: python
+  icon_pack: fab
+  name: Programming
+  description = **Python**, Stata, SAS, MATLAB, Tableau, MS Office
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
