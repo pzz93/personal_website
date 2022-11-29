@@ -24,14 +24,14 @@ feature:
  #   icon: github
  #   icon_pack: fab
  #   name: Statistics
-  - description: Natural Language Processing, Text Preprocessing, Sentiment Analysis
-    icon: file-lines
-    icon_pack: fas
-    name: Text Mining
   - description: 100+ websites, Edgar, Nasdaq, Seeking Alpha, Tipranks, Yahoo Finance, Twitter, Morningstar
     icon: scroll
     icon_pack: fas
     name: Web Scraping
+  - description: Natural Language Processing, Text Preprocessing, Sentiment Analysis
+    icon: file-lines
+    icon_pack: fas
+    name: Text Mining
   - description: Mandarin (Native), English (Fluent)
     icon: language
     icon_pack: fas
