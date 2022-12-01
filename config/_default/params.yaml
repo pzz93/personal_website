@@ -3,6 +3,8 @@
 # Documentation: https://wowchemy.com/docs/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
+i_am_a_sponsor: true
+
 # Appearance
 
 appearance:
@@ -43,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: ''  #'© {year} Me. This work is licensed under {license}'
     license:
       enable: false
       allow_derivatives: false
