@@ -14,8 +14,12 @@ role: Ph.D. Candidate in Finance
 
 # Organizations/Affiliations to show in About widget
 organizations:
+  - name: Division of Banking & Finance
+    url: https://www.ntu.edu.sg/business/academic-divisions/banking-finance
+  - name: Nanyang Business School
+    url: https://www.ntu.edu.sg/business
   - name: Nanyang Technological University
-    # url: https://www.stanford.edu/
+    url: https://www.ntu.edu.sg/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am currently completing my Ph.D. at Nanyang Technological University in the Division of Banking and Finance.
@@ -84,5 +88,5 @@ email: 'zhuozhen001@e.ntu.edu.sg'
 highlight_name: true
 ---
 
-I am currently completing my Ph.D. at Nanyang Technological University in the Division of Banking and Finance, under the supervision of Prof. Xin Chang and Assoc Prof. Byoung-Hyoun Hwang. I confidently expect to graduate by May 2023. I am especially interested in investigating information embedded in unstructured financial data to find out what affects market participants’ decisions and behaviors.
+I am currently completing my Ph.D. at Nanyang Technological University in the Division of Banking and Finance, under the supervision of Prof. [Xin Chang](https://personal.ntu.edu.sg/changxin/) and Assoc Prof. [Byoung-Hyoun Hwang](https://www.bhwang.com/). I confidently expect to graduate by May 2023. I am especially interested in investigating information embedded in unstructured financial data to find out what affects market participants’ decisions and behaviors.
 {style="text-align: justify;"}
