@@ -19,13 +19,13 @@ content:
   count: 0
   # Filter on criteria
   filters:
-    featured_only: true
+    featured_only: false
     author: ''
     category: ''
     publication_type: ''
     tag: ''
     exclude_featured: true
-    exclude_future: true
+    exclude_future: false
     exclude_past: false
     
   # Page order: descending (desc) or ascending (asc) date.
