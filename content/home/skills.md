@@ -24,7 +24,7 @@ feature:
  #   icon: github
  #   icon_pack: fab
  #   name: Statistics
-  - description: 100+ websites, Edgar, Nasdaq, Seeking Alpha, Tipranks, Yahoo Finance, Twitter, Morningstar
+  - description: 70+ websites -- Edgar, Nasdaq, Seeking Alpha, Tipranks, Yahoo Finance, Twitter, Morningstar
     icon: scroll
     icon_pack: fas
     name: Web Scraping
