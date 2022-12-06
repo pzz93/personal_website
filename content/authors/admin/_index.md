@@ -38,13 +38,13 @@ education:
   courses:
     - course: Ph.D. in Finance
       institution: Nanyang Technological University
-      year: 2018-Present
+      year: 2018 - Present
     - course: Master of Finance
       institution: University of California, San Diego
-      year: 2015-2016
+      year: 2015 - 2016
     - course: Bachelor of Economics
       institution: Southwestern University of Finance and Economics
-      year: 2011-2015
+      year: 2011 - 2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
