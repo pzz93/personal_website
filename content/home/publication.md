@@ -25,7 +25,7 @@ content:
     publication_type: ''
     tag: ''
     exclude_featured: true
-    exclude_future: false
+    exclude_future: true
     exclude_past: false
     
   # Page order: descending (desc) or ascending (asc) date.
