@@ -26,8 +26,8 @@ bio: I am currently completing my Ph.D. at Nanyang Technological University in t
 
 # Interests to show in About widget
 interests:
-  - Empirical Corporate Finance
   - Behavioral Finance
+  - Empirical Corporate Finance
   - Social Media
   - Fintech
   - Analyst Reports
