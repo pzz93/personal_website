@@ -13,9 +13,9 @@ authors:
 # Author notes (optional)
 author_notes:
   - "Nanyang Business School, Nanyang Technological University"
-  - "Southwestern University of Finance and Economics"
+  - "School of Accounting, Southwestern University of Finance and Economics"
   - "Nanyang Business School, Nanyang Technological University"
-  - "Faculty of Business and Economics, The University of Hong Kong"
+  - "Department of Finance, The Chinese University of Hong Kong"
 
 date: '2022-08-01T00:00:00Z'
 # doi: ''
