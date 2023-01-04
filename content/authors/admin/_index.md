@@ -31,7 +31,7 @@ interests:
   - Social Media
   - Fintech
   - Analyst Reports
-  - Inovation
+  - Innovation
 
 # Education to show in About widget
 education:
