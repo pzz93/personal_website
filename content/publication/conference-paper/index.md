@@ -31,10 +31,12 @@ date: '2022-11-01'
 # publication: In *Wowchemy Conference*
 # publication_short: In *ICW*
 
-abstract: This paper compares the ability of three prominent frameworks to explain the cross-section of expected stock returns. We conduct textual analysis on buy recommendations of stocks that prior literature shows earn low average returns, and we test whether the justifications provided in the buy recommendations mostly (1) emphasize a stock’s safe-haven quality, (2) indicate investor exuberance, or (3) point to a preference for stocks with high upside potential. We find that investors mostly point to the stocks’ upside potential. Our results suggest that non-traditional investor preferences play an important role in explaining the cross-section of expected stock returns. 
+abstract: This paper conducts textual analysis on sell-side analyst reports and online stock opinion articles, which recommend investors buy stocks that, based on prior literature, trade at comparatively high prices and earn low average returns. We test whether the justifications provided in these buy recommendations mostly (1) emphasize a stock’s safe-haven quality, (2) indicate investor exuberance, or (3) point to a preference for stocks with high upside potential. We find that the buy recommendations mostly emphasize stocks’ upside potential. Our results suggest that non-traditional investor preferences play an important role in explaining the cross-section of expected stock returns.
+# https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4328446
 
 # Summary. An optional shortened abstract.
-summary: This paper compares the ability of three prominent frameworks to explain the cross-section of expected stock returns. We conduct textual analysis on buy recommendations of stocks that prior literature shows earn low average returns, and we test whether the justifications provided in the buy recommendations mostly (1) emphasize a stock’s safe-haven quality, (2) indicate investor exuberance, or (3) point to a preference for stocks with high upside potential. We find that investors mostly point to the stocks’ upside potential. Our results suggest that non-traditional investor preferences play an important role in explaining the cross-section of expected stock returns.
+summary: This paper conducts textual analysis on sell-side analyst reports and online stock opinion articles, which recommend investors buy stocks that, based on prior literature, trade at comparatively high prices and earn low average returns. We test whether the justifications provided in these buy recommendations mostly (1) emphasize a stock’s safe-haven quality, (2) indicate investor exuberance, or (3) point to a preference for stocks with high upside potential. We find that the buy recommendations mostly emphasize stocks’ upside potential. Our results suggest that non-traditional investor preferences play an important role in explaining the cross-section of expected stock returns.
+# https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4328446
 
 tags: ['Anomalies', 'Behavioral Finance', 'Cross-Section of Expected Stock Returns', 'Natural Language Processing', 'Textual Analysis']
 
@@ -46,7 +48,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-# url_pdf: ''
+url_pdf: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4328446'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: ''
