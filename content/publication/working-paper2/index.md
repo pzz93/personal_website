@@ -32,6 +32,7 @@ publishDate: ''
 # Publication name and optional abbreviated publication name.
 # publication: In *Wowchemy Conference*
 # publication_short: In *ICW*
+
 abstract: This paper examines the relation between newly registered trademarks and different types of institutional investors. The results show that firms with more diversified institutional ownership are associated with larger numbers of new trademark registrations. This positive effect of diversified institutional ownership is more pronounced under the following conditions: when diversified shareholders are more effective in their governance, when CEOs have fewer incentives to take risks, when CEOs are less entrenched, and when firms operate in a more productoriented and competitive environment. This study further shows that diversified institutional investors tend to promote new product development that focuses on existing businesses rather than expanding into new segments, and they are inclined to register more trademarks that contain common words overlapping with their existing trademarks. Whereas firms with higher levels of under-diversified institutional ownership tend to generate trademarks of lower economic quality. Taken together, our analysis reveals the important role of diversified institutional ownership in shaping firms’ trademark activities.
 
 # Summary. An optional shortened abstract.
