@@ -1,5 +1,5 @@
 ---
-title: 'Inside the Minds of Expected Stock Returns'
+title: 'Revisiting the Cross-Section of Expected Stock Returns: Evidence from a Textual Analysis of Buy Recommendations'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -31,14 +31,14 @@ date: '2022-11-01'
 # publication: In *Wowchemy Conference*
 # publication_short: In *ICW*
 
-abstract: This paper conducts textual analysis on sell-side analyst reports and online stock opinion articles, which recommend investors buy stocks that, based on prior literature, trade at comparatively high prices and earn low average returns. We test whether the justifications provided in these buy recommendations mostly (1) emphasize a stock’s safe-haven quality, (2) indicate investor exuberance, or (3) point to a preference for stocks with high upside potential. We find that the buy recommendations mostly emphasize stocks’ upside potential. Our results suggest that non-traditional investor preferences play an important role in explaining the cross-section of expected stock returns.
+abstract: Our paper conducts textual analysis on sell-side analyst reports and online stock opinion articles, which recommend that investors buy stocks that, based on prior literature, trade at comparatively high prices and earn low future returns. We test whether the justifications provided in these buy recommendations mostly (1) emphasize a stock’s safe-haven quality, (2) indicate general investor exuberance, or (3) point to a specific preference for stocks with high upside potential. We find that the buy recommendations mostly emphasize stocks’ upside potential. Our results suggest that non-traditional investor preferences play a dominant role in explaining the cross-section of expected stock returns.
 # https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4328446
 
 # Summary. An optional shortened abstract.
-summary: This paper conducts textual analysis on sell-side analyst reports and online stock opinion articles, which recommend investors buy stocks that, based on prior literature, trade at comparatively high prices and earn low average returns. We test whether the justifications provided in these buy recommendations mostly (1) emphasize a stock’s safe-haven quality, (2) indicate investor exuberance, or (3) point to a preference for stocks with high upside potential. We find that the buy recommendations mostly emphasize stocks’ upside potential. Our results suggest that non-traditional investor preferences play an important role in explaining the cross-section of expected stock returns.
+summary: Our paper conducts textual analysis on sell-side analyst reports and online stock opinion articles, which recommend that investors buy stocks that, based on prior literature, trade at comparatively high prices and earn low future returns. We test whether the justifications provided in these buy recommendations mostly (1) emphasize a stock’s safe-haven quality, (2) indicate general investor exuberance, or (3) point to a specific preference for stocks with high upside potential. We find that the buy recommendations mostly emphasize stocks’ upside potential. Our results suggest that non-traditional investor preferences play a dominant role in explaining the cross-section of expected stock returns.
 # https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4328446
 
-tags: ['Anomalies', 'Behavioral Finance', 'Cross-Section of Expected Stock Returns', 'Natural Language Processing', 'Textual Analysis']
+tags: ['Anomalies', 'Behavioral Finance', 'Cross-Section of Expected Stock Returns', 'Risk', 'Textual Analysis']
 
 # Display this page in the Featured widget?
 featured: true
