@@ -37,7 +37,7 @@ content:
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
-  directions: Finance Department, Nanyang Business School
+ # directions: Finance Department, Nanyang Business School
  # office_hours:
  #   - 'Monday 10:00 to 13:00'
  #   - 'Wednesday 09:00 to 10:00'
