@@ -10,25 +10,23 @@ last_name: Peng
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate in Finance
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Division of Banking & Finance
-    url: https://www.ntu.edu.sg/business/academic-divisions/banking-finance
-  - name: Nanyang Business School
-    url: https://www.ntu.edu.sg/business
-  - name: Nanyang Technological University
-    url: https://www.ntu.edu.sg/
+  - name: School of Accountancy
+    # url: https://www.ntu.edu.sg/business/academic-divisions/banking-finance
+  - name: Central University of Finance and Economics
+    # url: https://www.ntu.edu.sg/business
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently completing my Ph.D. at Nanyang Technological University in the Division of Banking and Finance.
+bio: I am an Assistant Professor of Accounting at Central University of Finance and Economics.
 
 # Interests to show in About widget
 interests:
   - Behavioral Finance
   - Empirical Corporate Finance
-  - Analyst Reports
+  - Financial Analysts
   - Social Media
   - Fintech
 
@@ -37,7 +35,7 @@ education:
   courses:
     - course: Ph.D. in Finance
       institution: Nanyang Technological University
-      year: 2018 - Present
+      year: 2018 - 2023
     - course: Master of Finance
       institution: University of California, San Diego
       year: 2015 - 2016
@@ -71,9 +69,9 @@ social:
 #  - icon: github
 #    icon_pack: fab
 #    link: https://github.com/gcushen
-#  - icon: linkedin
-#    icon_pack: fab
-#    link: https://www.linkedin.com/in/pzhuozhen/?locale=en_US
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/pzhuozhen/?locale=en_US
   - icon: weixin
     icon_pack: fab
     link: uploads/wechat_code.png
@@ -87,5 +85,5 @@ email: 'zhuozhen001@e.ntu.edu.sg'
 highlight_name: false
 ---
 
-I am currently completing my Ph.D. at Nanyang Technological University in the Division of Banking and Finance, under the supervision of Prof. [Xin Chang](https://personal.ntu.edu.sg/changxin/) and Assoc Prof. [Byoung-Hyoun Hwang](https://www.bhwang.com/). I expect to graduate by May 2023. I am especially interested in investigating information embedded in unstructured financial data to find out what affects market participants’ decisions and behaviors.
+Welcome! I am an Assistant Professor of Accounting at Central University of Finance and Economics. My research interests include investor behavior, corporate finance, and financial analysts. I am especially interested in investigating information embedded in unstructured financial data to find out what affects market participants’ decisions and behaviors. 
 {style="text-align: justify;"}
