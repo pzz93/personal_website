@@ -41,7 +41,7 @@ summary: Our paper examines analyst reports and online stock opinion articles, w
 tags: ['Anomalies', 'Behavioral Finance', 'Cross-Section of Expected Stock Returns', 'Risk', 'Textual Analysis']
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
