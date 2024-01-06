@@ -28,14 +28,14 @@ feature:
     icon: scroll
     icon_pack: fas
     name: Web Scraping
-  - description: Natural Language Processing, Text Preprocessing, Sentiment Analysis
+  - description: NLP: Textual analysis, Sentiment Analysis, Text Calssification, Transformer-based Approaches
     icon: file-lines
     icon_pack: fas
     name: Text Mining
-  - description: Mandarin (Native), English (Fluent)
-    icon: language
-    icon_pack: fas
-    name: Languages
+#  - description: Mandarin (Native), English (Fluent)
+#    icon: language
+#    icon_pack: fas
+#    name: Languages
   - description: NTU Research Scholarship, Southwestern University of Finance and Economics Academic Scholarship
     icon: award
     icon_pack: fas
