@@ -28,11 +28,11 @@ feature:
     icon: scroll
     icon_pack: fas
     name: Web Scraping
-  - description: NLP\: Textual analysis, Sentiment Analysis, Text Classification, Transformer-based Approaches
+  - description: Textual analysis, Sentiment Analysis, Text Classification, Transformer-based Approaches
     icon: file-lines
     icon_pack: fas
-    name: Text Mining
-#  - description: Mandarin (Native), English (Fluent)
+    name: Natural Language Processing
+# - description: Mandarin (Native), English (Fluent)
 #    icon: language
 #    icon_pack: fas
 #    name: Languages
