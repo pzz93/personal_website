@@ -20,7 +20,7 @@ organizations:
     # url: https://www.ntu.edu.sg/business
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an Assistant Professor of Accounting at Central University of Finance and Economics.
+bio: I am currently an Assistant Professor at Central University of Finance and Economics.
 
 # Interests to show in About widget
 interests:
@@ -85,5 +85,5 @@ email: 'zhuozhen001@e.ntu.edu.sg'
 highlight_name: false
 ---
 
-Welcome! I am an Assistant Professor of Accounting at Central University of Finance and Economics. My research interests include investor behavior, corporate finance, and financial analysts. I am especially interested in investigating information embedded in unstructured financial data to find out what affects market participants’ decisions and behaviors. 
+Welcome! I am currently an Assistant Professor at Central University of Finance and Economics. My research interests include investor behavior, corporate finance, and financial analysts. I am especially interested in investigating information embedded in unstructured financial data to find out what affects market participants’ decisions and behaviors. 
 {style="text-align: justify;"}
