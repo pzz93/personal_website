@@ -28,7 +28,7 @@ feature:
     icon: scroll
     icon_pack: fas
     name: Web Scraping
-  - description: NLP: Textual analysis, Sentiment Analysis, Text Calssification, Transformer-based Approaches
+  - description: NLP\: Textual analysis, Sentiment Analysis, Text Classification, Transformer-based Approaches
     icon: file-lines
     icon_pack: fas
     name: Text Mining
