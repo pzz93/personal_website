@@ -31,7 +31,7 @@ feature:
   - description: Textual analysis, Sentiment Analysis, Text Classification, Transformer-based Approaches
     icon: file-lines
     icon_pack: fas
-    name: Natural Language Processing
+    name: NLP
 # - description: Mandarin (Native), English (Fluent)
 #    icon: language
 #    icon_pack: fas
