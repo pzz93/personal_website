@@ -71,7 +71,7 @@ social:
 #    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/pzhuozhen/?locale=en_US
+    link: https://www.linkedin.com/in/zhuozhen-peng/?locale=en_US
   - icon: weixin
     icon_pack: fab
     link: uploads/wechat_code.png
