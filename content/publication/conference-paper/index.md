@@ -39,7 +39,7 @@ summary: Our paper examines analyst reports and online stock opinion articles, w
 # https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4328446
 
 tags: ['Textual Analysis', 'Survey Analysis', 'Anomalies','Risk', 'Behavioral Finance' ]
-Textual Analysis, Survey Analysis, Anomalies, Risk, Behavioral Finance
+
 # Display this page in the Featured widget?
 featured: true
 
