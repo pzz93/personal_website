@@ -1,5 +1,5 @@
 ---
-title: 'Revisiting the Cross-Section of Expected Stock Returns: Evidence from a Textual Analysis of Buy Recommendations'
+title: 'Why do Investors Like Short-Leg Securities? Evidence from a Textual Analysis of Buy Recommendations'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -13,9 +13,9 @@ authors:
 author_notes:
   - "Faculty of Business and Economics, The University of Hong Kong"
   - "Nanyang Business School, Nanyang Technological University"
-  - "Nanyang Business School, Nanyang Technological University"
+  - "School of Accountancy, Central University of Finance and Economics"
 
-date: '2023-06-05'
+date: '2025-03-15'
 # doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -31,15 +31,15 @@ date: '2023-06-05'
 # publication: In *Wowchemy Conference*
 # publication_short: In *ICW*
 
-abstract: Our paper examines analyst reports and online stock opinion articles, which recommend that investors buy stocks that, based on prior literature, trade at comparatively high prices and earn low future returns. We conduct textual analysis and test whether the justifications provided in these buy recommendations mostly (1) emphasize a stock’s safe-haven quality, (2) indicate general investor exuberance, or (3) point to a specific preference for stocks with high upside potential. We find that the buy recommendations mostly emphasize stocks’ upside potential. Our results suggest that non-traditional investor preferences play a material role in explaining the cross-section of expected stock returns.
+abstract: Our paper examines analyst reports and online stock opinion articles, which recommend that investors buy stocks that, based on prior literature, trade at comparatively high prices and earn low future returns (“short-leg securities”). We conduct textual analysis and test whether the justifications provided in these buy recommendations primarily (1) emphasize a stock’s safe-haven quality, (2) indicate general investor exuberance, or (3) highlight a stock’s lottery-like features. We find that the buy recommendations mostly emphasize stocks’ lottery-like characteristics. We subsequently validate our text-based inferences through a one-time survey of institutional investors and retail investors with long positions in short-leg securities. Overall, our results suggest that perceived lottery-like features play a material role in explaining why investors invest in stocks that reside in short legs of anomalies.
 # https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4328446
 
 # Summary. An optional shortened abstract.
-summary: Our paper examines analyst reports and online stock opinion articles, which recommend that investors buy stocks that, based on prior literature, trade at comparatively high prices and earn low future returns. We conduct textual analysis and test whether the justifications provided in these buy recommendations mostly (1) emphasize a stock’s safe-haven quality, (2) indicate general investor exuberance, or (3) point to a specific preference for stocks with high upside potential. We find that the buy recommendations mostly emphasize stocks’ upside potential. Our results suggest that non-traditional investor preferences play a material role in explaining the cross-section of expected stock returns.
+summary: Our paper examines analyst reports and online stock opinion articles, which recommend that investors buy stocks that, based on prior literature, trade at comparatively high prices and earn low future returns (“short-leg securities”). We conduct textual analysis and test whether the justifications provided in these buy recommendations primarily (1) emphasize a stock’s safe-haven quality, (2) indicate general investor exuberance, or (3) highlight a stock’s lottery-like features. We find that the buy recommendations mostly emphasize stocks’ lottery-like characteristics. We subsequently validate our text-based inferences through a one-time survey of institutional investors and retail investors with long positions in short-leg securities. Overall, our results suggest that perceived lottery-like features play a material role in explaining why investors invest in stocks that reside in short legs of anomalies.
 # https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4328446
 
-tags: ['Anomalies', 'Behavioral Finance', 'Cross-Section of Expected Stock Returns', 'Risk', 'Textual Analysis']
-
+tags: ['Textual Analysis', 'Survey Analysis', 'Anomalies','Risk', 'Behavioral Finance' ]
+Textual Analysis, Survey Analysis, Anomalies, Risk, Behavioral Finance
 # Display this page in the Featured widget?
 featured: true
 
