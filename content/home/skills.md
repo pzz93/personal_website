@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: Python, Stata, SAS, MATLAB, Tableau, MS Office
+  - description: Python, Stata, SAS, MATLAB, Tableau
     icon: python
     icon_pack: fab
     name: Programming
@@ -24,11 +24,11 @@ feature:
  #   icon: github
  #   icon_pack: fab
  #   name: Statistics
-  - description: 70+ websites -- Edgar, Nasdaq, Seeking Alpha, Tipranks, Yahoo Finance, Twitter, Morningstar
+  - description: StockTwits, Seeking Alpha, TipRanks, Yahoo Finance, Morningstar, EDGAR, NASDAQ, etc.
     icon: scroll
     icon_pack: fas
     name: Web Scraping
-  - description: Textual analysis, Sentiment Analysis, Text Classification, Transformer-based Approaches
+  - description: Textual Analysis, Transformer-based Models
     icon: file-lines
     icon_pack: fas
     name: NLP
